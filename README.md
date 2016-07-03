@@ -6,5 +6,4 @@ The repository is composed by a script and various datasets for carrying out the
 
 ### Analysis
 
-There are two parts in the analysis: the calculation of entry rates `entry_exit_rates.R` and the management of geographical information. The latter is given in shape (`.shp`) file. 
-
+There are two parts in the analysis: the calculation of entry rates `entry_exit_rates.R` and the management of geographical information. The latter is given in shape (`.shp`) file.
